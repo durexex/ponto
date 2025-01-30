@@ -1,3 +1,0 @@
-video 1 (front) - até 50min. Início da navbar
-
-vídeo 2 (backend) -até 20 minutos - iniciando implemtação da classe de associação
